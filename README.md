@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.10.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-material-ui-v4.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-material-ui-v4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-material-ui-v4/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](./src/assets/github/material-dashboard-pro-react.gif)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/578/original/opt_mdp_react_thumbnail.jpeg)
 
 Material Dashboard PRO Material UI v4 is a Premium Material-UI Admin created using [create-react-app](https://github.com/facebook/create-react-app) with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard PRO React was built over the popular Material-UI framework.
 
@@ -54,7 +54,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML | React | Vue | Angular |
 | --- | --- | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-bs4) | [![Material Dashboard Pro Material-UI v4](https://s3.amazonaws.com/creativetim_bucket/products/80/thumb/opt_mdp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-material-ui-v4)  | [![Vue Material Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro)  | [![Material Dashboard Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/thumb/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-angular2)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard) | [![Material Dashboard Pro Material-UI v4](https://s3.amazonaws.com/creativetim_bucket/products/578/original/opt_mdp_react_thumbnail.jpeg)](https://www.creative-tim.com/product/material-dashboard-pro-material-ui-v4)  | [![Vue Material Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro)  | [![Material Dashboard Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/thumb/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-angular2)
 
 ## Demo
 
